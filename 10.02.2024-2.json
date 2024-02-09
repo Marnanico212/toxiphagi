@@ -1,0 +1,25 @@
+{
+    "name": "Sean Baker",
+    "age": 97,
+    "address": {
+        "street": "Heather Camp",
+        "city": "Danielfurt",
+        "state": "Utah",
+        "zip": "25560"
+    },
+    "contact": {
+        "phone": "001-859-666-9733x58355",
+        "servicePhone": "800652462"
+    },
+    "birthday": "1928-05-03",
+    "ip": "179.7.240.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Congress now house themselves include. Difference green suggest beautiful interest design form. Ground why hear like.",
+        "bio": "Past guy member responsibility keep fund. Floor just sound however glass herself suggest."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
