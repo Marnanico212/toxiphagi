@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Johnson",
+    "age": 52,
+    "address": {
+        "street": "Charles Stravenue",
+        "city": "North Kimberlyside",
+        "state": "Nevada",
+        "zip": "04275"
+    },
+    "contact": {
+        "phone": "(625)911-1688x60062",
+        "servicePhone": "800362559"
+    },
+    "birthday": "1973-12-01",
+    "ip": "74.164.138.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Clear record outside easy. Tax police middle campaign.\nTake quality decide physical beautiful interview. Say mother his.",
+        "bio": "Wife their what along likely. Federal century customer fast various individual more lot. Place attack lose two.\nParticipant money story police control themselves who. Rock bank trade."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
