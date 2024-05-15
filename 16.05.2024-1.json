@@ -1,0 +1,25 @@
+{
+    "name": "Allen Jackson",
+    "age": 36,
+    "address": {
+        "street": "Johnson Overpass",
+        "city": "Baileyland",
+        "state": "Illinois",
+        "zip": "18018"
+    },
+    "contact": {
+        "phone": "(972)536-6964",
+        "servicePhone": "800554671"
+    },
+    "birthday": "1989-28-10",
+    "ip": "52.105.23.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Democrat present doctor detail contain or yet find. About Republican nothing spend.",
+        "bio": "Stop return away buy within. Culture when number.\nFloor design red close suddenly itself staff. Color our provide catch us improve show fight. Even capital late exactly evening."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
