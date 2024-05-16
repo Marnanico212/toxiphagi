@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Thomas",
+    "age": 4,
+    "address": {
+        "street": "Cross Rapids",
+        "city": "West Meganville",
+        "state": "Virginia",
+        "zip": "59844"
+    },
+    "contact": {
+        "phone": "924.948.9516x9318",
+        "servicePhone": "800181168"
+    },
+    "birthday": "2021-02-06",
+    "ip": "24.63.146.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind paper example stop.\nYes must raise coach another positive defense.\nBecome country government future art style. Rock probably only most across. Own account again itself concern.",
+        "bio": "Position something campaign administration focus do. Analysis course news hit word week. Political produce become dark.\nMuch eight pick court. Thing prepare fact ground."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
