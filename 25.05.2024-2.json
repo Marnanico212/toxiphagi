@@ -1,0 +1,25 @@
+{
+    "name": "Anna Brown",
+    "age": 68,
+    "address": {
+        "street": "Marsh Mountain",
+        "city": "Austinview",
+        "state": "New Mexico",
+        "zip": "66404"
+    },
+    "contact": {
+        "phone": "+1-867-418-4672",
+        "servicePhone": "800171509"
+    },
+    "birthday": "1957-27-10",
+    "ip": "10.2.3.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Any with if. Machine involve worker ask seem director.\nAvailable address nature good hard.",
+        "bio": "Author money early matter any. Personal avoid student power. Begin senior challenge then business now.\nPresident each individual difficult article whose condition attention."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
