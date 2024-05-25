@@ -1,0 +1,25 @@
+{
+    "name": "Robin Brown",
+    "age": 90,
+    "address": {
+        "street": "Melissa Tunnel",
+        "city": "Sandraberg",
+        "state": "Delaware",
+        "zip": "70768"
+    },
+    "contact": {
+        "phone": "001-824-773-7576x831",
+        "servicePhone": "800397739"
+    },
+    "birthday": "1935-03-12",
+    "ip": "16.236.85.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor administration answer walk under probably. Reality indicate charge allow feeling year.\nSection medical hospital force significant. Wide someone office film military month wait area.",
+        "bio": "Country increase appear camera home car. Star site face institution trip push.\nHundred result skin work. Wear account power use. Behind few measure sign."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
