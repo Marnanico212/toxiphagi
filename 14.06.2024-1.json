@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Leon",
+    "age": 3,
+    "address": {
+        "street": "Huang Shore",
+        "city": "Zamorachester",
+        "state": "Missouri",
+        "zip": "48268"
+    },
+    "contact": {
+        "phone": "+1-239-661-6575x6177",
+        "servicePhone": "800026630"
+    },
+    "birthday": "2022-12-05",
+    "ip": "160.128.191.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Way various black church control free. Financial other must much school everything prove. Create toward smile tell plant.",
+        "bio": "Writer policy matter place nothing point get. Improve computer big nor with.\nCouple political drop husband. Far analysis himself should."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
