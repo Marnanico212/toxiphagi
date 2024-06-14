@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Robin Williams DDS",
+    "age": 76,
+    "address": {
+        "street": "Knox Row",
+        "city": "Nunezmouth",
+        "state": "Hawaii",
+        "zip": "42310"
+    },
+    "contact": {
+        "phone": "+1-973-596-5177x65061",
+        "servicePhone": "800308817"
+    },
+    "birthday": "1949-23-08",
+    "ip": "78.123.220.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Difference hair feel unit. Stay call course ask ground. Others moment model impact red her. Unit thus federal between book speak together.\nAlong well degree under sometimes race.",
+        "bio": "Continue bring hard end. Truth development accept impact eye marriage who.\nCenter company cut feeling young. Store less popular piece.\nProbably hold how billion identify. Firm alone hot energy large."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
