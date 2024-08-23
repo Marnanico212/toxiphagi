@@ -1,0 +1,25 @@
+{
+    "name": "Cristian Henderson",
+    "age": 55,
+    "address": {
+        "street": "Wiley Island",
+        "city": "Lake Taylormouth",
+        "state": "Kansas",
+        "zip": "42694"
+    },
+    "contact": {
+        "phone": "675.880.8079",
+        "servicePhone": "800253633"
+    },
+    "birthday": "1970-14-02",
+    "ip": "118.6.117.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Appear rest nice garden since team audience. Suggest friend that artist star form guy. Happy write base.\nTraditional term discover strategy business maybe true.",
+        "bio": "Author claim now involve seat who. Finally and picture one change wrong.\nFast film teacher support Congress that learn. Whether your lot face might practice. Inside best rise bit."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
