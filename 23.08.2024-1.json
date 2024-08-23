@@ -1,0 +1,25 @@
+{
+    "name": "Bonnie Gordon",
+    "age": 45,
+    "address": {
+        "street": "Fry Mill",
+        "city": "Jensenmouth",
+        "state": "Oklahoma",
+        "zip": "38682"
+    },
+    "contact": {
+        "phone": "9045822445",
+        "servicePhone": "800527984"
+    },
+    "birthday": "1980-11-01",
+    "ip": "33.245.104.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Material use cell figure watch hold whom education.\nHealth bed include form. Likely physical simple camera each would.",
+        "bio": "Senior itself case half easy. Movement million bank always story imagine gas. Matter point Democrat lead central fish rise."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
