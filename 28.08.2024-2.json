@@ -1,0 +1,25 @@
+{
+    "name": "Donna Ho",
+    "age": 104,
+    "address": {
+        "street": "Jacobs Forest",
+        "city": "Simpsonmouth",
+        "state": "Delaware",
+        "zip": "46976"
+    },
+    "contact": {
+        "phone": "901-914-5778",
+        "servicePhone": "800613190"
+    },
+    "birthday": "1921-14-04",
+    "ip": "101.243.110.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Loss top morning table every. Wait dream chance wife. Simply through protect job.\nMust above writer reason. Interesting serve data finally party close challenge.",
+        "bio": "Claim admit three role against without affect. Black by career. Simply main travel work yourself sign responsibility."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
