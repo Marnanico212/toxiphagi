@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Nichols",
+    "age": 44,
+    "address": {
+        "street": "Johnson Crescent",
+        "city": "East Madison",
+        "state": "Alabama",
+        "zip": "64047"
+    },
+    "contact": {
+        "phone": "707.728.0382",
+        "servicePhone": "800418093"
+    },
+    "birthday": "1981-17-06",
+    "ip": "128.125.151.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Would expert between southern guess stuff shake. Bring carry leave later employee often man. Produce almost provide class hot interview.",
+        "bio": "Show board house may. Conference line spring case.\nEverything meet challenge face gun senior course bad. Must clear interest few recently suddenly. Office reality fear radio defense hope."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
