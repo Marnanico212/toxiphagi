@@ -1,0 +1,25 @@
+{
+    "name": "Carol Christensen",
+    "age": 113,
+    "address": {
+        "street": "Lopez Ways",
+        "city": "Angelaland",
+        "state": "Ohio",
+        "zip": "46895"
+    },
+    "contact": {
+        "phone": "245-655-8234x136",
+        "servicePhone": "800109898"
+    },
+    "birthday": "1912-28-02",
+    "ip": "192.134.240.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill change able who fact listen. Consumer blue hair seek. Close one need tough strong per chance where.",
+        "bio": "Hear service paper decade. Less claim sense measure.\nKey forget interest market ok. Color simply able my.\nFast brother minute sea. Another weight political."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
