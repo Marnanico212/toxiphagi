@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Lee",
+    "age": 46,
+    "address": {
+        "street": "Daniel Freeway",
+        "city": "North Loriborough",
+        "state": "West Virginia",
+        "zip": "01566"
+    },
+    "contact": {
+        "phone": "228.928.9176x5294",
+        "servicePhone": "800813474"
+    },
+    "birthday": "1979-22-11",
+    "ip": "164.106.56.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea field gas mention bring. Clearly it lay may cut price everyone. Everybody able worry popular Congress.\nSurface establish sell art level. Mr challenge how admit nation.",
+        "bio": "Early help about free pretty call. To once us should effort. Middle successful air despite.\nPlay consumer peace effect develop risk. A fly necessary."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
