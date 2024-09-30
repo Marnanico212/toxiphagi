@@ -1,0 +1,25 @@
+{
+    "name": "Casey Gillespie",
+    "age": 8,
+    "address": {
+        "street": "Charles Gateway",
+        "city": "Haneyside",
+        "state": "Pennsylvania",
+        "zip": "96210"
+    },
+    "contact": {
+        "phone": "001-994-489-5755x2764",
+        "servicePhone": "800660546"
+    },
+    "birthday": "2017-19-10",
+    "ip": "171.20.204.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether several behavior power. Also line list. Across magazine according hour.\nEight race support. Detail record maintain who continue opportunity else.",
+        "bio": "Natural begin travel study north. Nearly rise use really serve.\nItem nothing break return avoid music. Two three budget tax."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
