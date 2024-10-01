@@ -1,0 +1,25 @@
+{
+    "name": "Edward Brown",
+    "age": 74,
+    "address": {
+        "street": "Gutierrez Trail",
+        "city": "Port Joshua",
+        "state": "Michigan",
+        "zip": "60212"
+    },
+    "contact": {
+        "phone": "579.244.9620x6057",
+        "servicePhone": "800438811"
+    },
+    "birthday": "1951-26-08",
+    "ip": "122.127.200.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Wall thousand control.\nFish we behavior quality many. System maintain voice try executive likely. Past authority state.",
+        "bio": "Now reach subject travel health challenge.\nBuilding wide avoid win young through smile. Light task notice wife everyone stand pretty friend."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
