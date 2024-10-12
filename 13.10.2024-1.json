@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Hall",
+    "age": 96,
+    "address": {
+        "street": "Carmen Spur",
+        "city": "East Stephenborough",
+        "state": "West Virginia",
+        "zip": "16837"
+    },
+    "contact": {
+        "phone": "(315)950-4195",
+        "servicePhone": "800326858"
+    },
+    "birthday": "1929-27-05",
+    "ip": "138.58.76.229",
+    "foo": "bar",
+    "profile": {
+        "about": "His rather defense us focus history. High walk somebody bag. Friend guess television leave.\nInterview administration be turn. North particular body while professor his product.",
+        "bio": "After resource amount writer whether position perhaps. Catch establish form.\nMethod move research. Grow choice home else firm. Record audience seat voice score similar."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
