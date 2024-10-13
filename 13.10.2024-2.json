@@ -1,0 +1,25 @@
+{
+    "name": "Steven Davis",
+    "age": 71,
+    "address": {
+        "street": "Mark Trace",
+        "city": "East Patricia",
+        "state": "North Carolina",
+        "zip": "79474"
+    },
+    "contact": {
+        "phone": "881.875.7788x38789",
+        "servicePhone": "800826147"
+    },
+    "birthday": "1954-18-12",
+    "ip": "169.207.251.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead be produce tonight charge. Realize itself future.\nOpen energy glass organization cultural. Voice onto home career.",
+        "bio": "Office share phone shake capital. Child left surface decade. Number outside police key visit field brother."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
