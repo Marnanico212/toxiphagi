@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Fischer",
+    "age": 113,
+    "address": {
+        "street": "Schmitt Trafficway",
+        "city": "Port Barrymouth",
+        "state": "New Mexico",
+        "zip": "17371"
+    },
+    "contact": {
+        "phone": "637.800.7894x34323",
+        "servicePhone": "800602623"
+    },
+    "birthday": "1912-22-05",
+    "ip": "183.152.208.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently admit treat success expect agency capital. Attorney make food school sport. People day listen themselves.",
+        "bio": "Grow cup all. Cold condition offer commercial north for.\nFuture institution shoulder while growth make. Fast page general white whether street goal."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
