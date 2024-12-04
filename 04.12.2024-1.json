@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Garcia",
+    "age": 70,
+    "address": {
+        "street": "John Ports",
+        "city": "New Rebecca",
+        "state": "Iowa",
+        "zip": "22873"
+    },
+    "contact": {
+        "phone": "556.930.8980",
+        "servicePhone": "800612729"
+    },
+    "birthday": "1955-08-10",
+    "ip": "31.130.178.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Find region out eye score argue during. Development argue many show any fine place approach.\nTraditional effect room box six say yes. Exist service vote become word. Staff radio hospital.",
+        "bio": "Life budget father find hair. Win plan around seek issue. Cup care would song skin."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
